@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Hillel\UsAg\UserAgent;
+namespace Hillel\UsAg;
 
 
 interface UserAgentServiceInterface
